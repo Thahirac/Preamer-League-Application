@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575439066994",
+    "project_id": "tpleague-535cb",
+    "storage_bucket": "tpleague-535cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575439066994:android:47e6ff52434c32d9dcefeb",
+        "android_client_info": {
+          "package_name": "com.example.tpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575439066994-jsj3tlkjn6g3h8uc9s32vflq2pk7d49i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tpl",
+            "certificate_hash": "20581b930df355e3ee3562f78ef6834a1b6fe98b"
+          }
+        },
+        {
+          "client_id": "575439066994-18qqt6o3dd9aoh339oc5f37239s5pp2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56Q0N0ku0MokmtjGbiovzNILte1uRilU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575439066994-18qqt6o3dd9aoh339oc5f37239s5pp2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
